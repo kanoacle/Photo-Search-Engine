@@ -1,0 +1,15 @@
+* {
+  font-family: 'Capriola', sans-serif;
+}
+body {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+#content {
+  height: 75vh;
+  width: 85vw;
+  overflow: scroll;
+}
